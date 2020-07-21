@@ -1,0 +1,20 @@
+.my_bg{
+	background: linear-gradient(to top,#e0e0e0,#f0f0f0);
+}
+.text-12{
+	font-size: 12px;
+	font-family: microsoft yahei;
+}
+.my_btn1{
+	width: 1.8rem;height: 1.8em;
+	border: 0;
+	outline: 0;
+	color: white;
+	text-align: center;
+	font-weight: bolder;
+}
+ul1i{
+	width: 1.5rem;height: 1.5rem;
+	border-radius: 3px;
+	
+}

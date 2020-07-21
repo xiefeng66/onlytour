@@ -1,0 +1,66 @@
+.carousel-indicators li{
+    width:20px !important;
+    height: 20px !important;
+    border-radius: 50%;
+    background-color:#000 !important;
+}
+.carousel-indicators .active{
+    background-color: #00a1ed !important;
+}
+.carousel-control-next,.carousel-control-prev{
+    width: 4% !important;
+    height: 20% !important;
+    background: #aaa !important;
+    top: 40% !important;
+    border-radius: 0.25rem !important;
+}
+.mian_box{
+    width: 86.8%;
+    margin: 0 auto;
+    margin-top: 7.35vw;
+}
+.p_h_size1{
+    font-size: 2.3vw;
+    line-height: 2.3vw;
+    color: #000;
+}
+.p_h_size2{
+    font-size: 1.25vw;
+    line-height: 1.25vw;
+    color: #000;
+}
+.div-con{
+    background-color: #000;
+}
+.border-d{
+    border: 1px solid #ddd;
+}
+.img_city{
+    width: 3.4vw;
+    margin: 3.6vw auto 0;
+}
+.size-p{
+    font-size: 1.15vw;
+    margin-top: 2.1vw;
+    color: #000;
+}
+.left-a{
+    width: 35%;
+    height: 3.7vw;
+    background: rgba(0,0,0,0);
+    border: 1px solid rgba(45, 40, 40, 1);
+    border-radius: 3vw;
+    line-height: 3.7vw;
+    text-align: center;
+    display: block;
+    margin: 3vw auto;
+    box-sizing: border-box;
+    font-weight: 400;
+    font-size: 1vw;
+}
+.bg-main-box{
+    background-color: #eee;
+}
+.font_small{
+    font-size: 14px;
+}

@@ -1,0 +1,15 @@
+body{
+	margin: 0;padding: 0;
+	background-color: #f5f5f5;
+	font-family: simhei;
+}
+.text_small{
+	font-size: 0.8rem;
+}
+/* 头的响应式高度 */
+@media  (min-width:576px) {
+	.my_header{height: 13rem;}
+}
+@media  (min-width:768px) {
+	.my_header{height: 8rem;}
+}

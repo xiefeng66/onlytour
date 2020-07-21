@@ -1,0 +1,249 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.ding1{
+    height: 46px;
+    background: #f56f00;
+}
+
+.ding_ul{
+    margin: 0 auto;
+    list-style: none;
+    display: flex;
+
+}
+.ding_ul li{
+    margin-left: 30px;
+}
+
+/* 顶部图片大小 */
+.ding_ul li img {
+    width: 17px;
+    height: 15px;
+    margin: 6px 6px;
+}
+header .ding_ul li .pic {
+    width: 29px;
+    height: 29px;
+    display: block;
+    border-radius: 50%;
+    margin-top: 8px;
+    margin-bottom: 9px;
+    background-color: #D0660B;
+    float: left;
+    /* cursor: pointer; */
+}
+.ding_ul li a{
+    float: left;
+    height: 49px;
+    font-size: 14px;
+    margin-left: 5px;
+    color: rgba(255,255,255,1);
+    line-height: 49px;
+}
+.tit {
+    font-size: 22px;
+    margin-left: 4px;
+    font-weight: 400;
+    color: rgba(255,255,255,1);
+    line-height: 49px;
+}
+
+/*  顶2 */
+.ding2 a img {
+    width: 170px;
+    margin-top: 23px;
+    float: left;
+    display: block;
+    position: relative;
+}
+#ding2_select{
+    color: grey; margin-top: 24px;
+    margin-left: 40px;border-radius: 15px;
+    height: 40px; width: 130px;
+}
+.pl-5{
+    padding-left: 2% !important;
+  }
+/*  看客片 去哪拍 品牌介绍 查评价 抢特惠 微电影*/
+.ding2 div ul{
+    margin: 0 auto;
+    color: #666;
+    font: 12px simhei;
+    text-align: center;
+    list-style: none;
+    display: flex;
+    flex-direction: row; /* 主轴的方向 */
+    justify-content: space-around;
+}
+.ding2 div ul a{
+    text-decoration:none;
+    color: #666;
+}
+.ding2_div ul li{
+    margin-top: 30px;
+    font-size: 18px;
+}
+ /* 主体  */
+ .wrap_ding{
+    padding-left: 5rem !important;
+    color: black;
+ }
+ .wrap_ding a{
+    color: black; text-decoration:none;
+ }
+
+ .wrap_nian div{
+      text-align: center;
+ }
+ .wrap_nian div ul{
+    list-style: none;
+   
+ }
+ .wrap_nian div ul li{
+     margin: auto;
+    } 
+ .wrap_nian div ul li a{
+    color: black; text-decoration:none;
+ }
+
+
+/* .wrap_nian div:first-child  nth-child(2)*/
+.main_box {
+    width: 86.8%;
+    margin: 0 auto;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.dibu1 {
+    /* width: 290px;
+        height: 167px; */
+    background: rgba(0, 0, 0, 0.6);
+    color: #FFFFFF;
+}
+/* .dibu1 div:first-child div{
+
+} */
+.p {
+    font-size: 12px;
+    margin-top: 40px;
+}
+
+.dibu_1 {
+    width: 270px;
+    height: 167px;
+
+}
+
+.dibu_2 div h6 {
+    margin: 0;
+}
+
+.dibu_2 div h6 a {
+    font-size: 16px;
+}
+
+.dibu_2 div p a {
+    font-size: 12px;
+    color: chartreuse;
+}
+
+.dibu2 {
+    background: rgba(0, 0, 0, 1);
+    color: #FFFFFF;
+}
+
+.dibu2_1 {
+    width: 345px;
+    color: gray;
+}
+
+.border-right {
+    color: gray;
+    width: 455px;
+}
+
+.dibu2_2 div {
+    width: 110px;
+    height: 53px;
+    margin: 22px 85px 52px 0px;
+}
+
+.dibu2_2 div:nth-child(2),
+.dibu2_2 div:nth-child(4) {
+    width: 110px;
+    height: 53px;
+    margin: 22px 40px 52px 0px;
+}
+
+.dibu2_2 {
+    text-align: left;
+    margin-left: 130px;
+}
+
+.dibu2_2 div h6 {
+    color: gray;
+    font-size: 18px;
+}
+
+.dibu2_2 div a {
+    color: gray;
+    font-size: 12px;
+    text-decoration: none;
+}
+
+.dibu3 {
+    background-color: rgba(0, 0, 0, 0.8);
+    color: gray;
+}
+
+.but {
+    border-radius: 10px;
+    ;
+    width: 200px;
+    height: 27px;
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
+.dibu3_3 {
+    margin-left: 90px;
+}
+
+.sub {
+    width: 150px;
+    height: 40px;
+    border-radius: 10px;
+    font-weight: bold;
+    color: white;
+    border: 0;
+    background: #F77C36;
+}
+
+/*  */
+.text-center{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+  #oooo{
+      width: 32px;
+      height: 3px;
+}
+
+.h div {
+    display: none;
+    z-index: 2;
+}
+
+.h:hover div {
+    display: block;
+    overflow: hidden;
+    /* z-index: 99; */
+}
+.nav-link {
+    display: block;
+    padding: 0rem 0rem;
+  }
